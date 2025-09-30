@@ -26,7 +26,7 @@ This project implements a **Direct Sequence CDMA (DS-CDMA)** system with multipl
 - The BER vs SNR curves show how error probability reduces as SNR increases.
 - Trade-off between **capacity and reliability** in CDMA systems is clearly observed.
 
-![BER vs SNR Plot](SNR vs BER plot.png)
+![BER vs SNR Plot](plot.png)
 
 ---
 
