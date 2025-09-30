@@ -52,3 +52,4 @@ This project is based on concepts from the **NPTEL course (IIT)** on *Principles
 ## 🔗 Author
 **Akshat Gupta**  
 3rd Year B.Tech (ECE) | Analog VLSI & Wireless Communication Enthusiast  
+🔗 [LinkedIn](www.linkedin.com/in/akshat-gupta-9b649a378)
